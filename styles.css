@@ -14,6 +14,12 @@ h1 {
   font-weight: bold;   
 }
 
+.donations {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 .text-middle {
   text-align: center;
 }
