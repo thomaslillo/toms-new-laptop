@@ -1,6 +1,7 @@
-# toms-new-laptop
-fam, help me buy a framework
+# Tom's New Laptop
 
-this is for fun
+Fam, help me buy a framework.
+
+This is for fun.
 
 https://thomaslillo.github.io/toms-new-laptop/
